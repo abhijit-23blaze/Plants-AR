@@ -6,18 +6,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Technology Stack](#technology-stack)
-- [Architecture](#architecture)
-- [Feasibility Analysis](#feasibility-analysis)
-- [Impact and Benefits](#impact-and-benefits)
-- [License](#license)
-
----
-
 ## 🌱 Features
 
 ### 1. AR Plant Identifier
