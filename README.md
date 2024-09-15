@@ -1,6 +1,7 @@
 # PlantPedia: Virtual Herbal Garden for AYUSH
 
-<img src="https://your-image-url.com/plantpedia-logo.png" alt="PlantPedia Logo" width="300" />
+<img src="https://github.com/user-attachments/assets/10a23a8b-397d-48b9-9a6b-f3d8a397eaa1" alt="Mask group" width="300" />
+
 
 ## 🌟 Smart India Hackathon 2024 Entry
 
